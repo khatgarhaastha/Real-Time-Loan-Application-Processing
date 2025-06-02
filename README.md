@@ -36,7 +36,7 @@ This project is a real-time machine learning pipeline that processes incoming lo
 ````
 ## 🖼 Architecture Diagram
 
-![Architecture Diagram](./assets/architecture.png)
+![Architecture Diagram](loanPrediction.png)
 
 
 ---
